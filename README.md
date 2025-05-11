@@ -87,7 +87,7 @@ I’m a **Web3** enthusiast, but my core passion is **FastAPI**. I’m well-vers
 ### Socials
 
 <div id="badges">
-    <a href="[Disney36](https://t.me/Disney36)" target="_blank">
+    <a href="https://t.me/Disney36" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://vk.com/vorishkaaaa" target="_blank">
